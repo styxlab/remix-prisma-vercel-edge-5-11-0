@@ -1,4 +1,4 @@
-import { UserStatus } from "@prisma/client";
+import { UserStatus } from "@prisma/client/edge";
 
 export const config = { runtime: 'edge' };
 
